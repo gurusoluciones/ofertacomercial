@@ -2976,19 +2976,19 @@ body {
   z-index: 0;
 }
 .cid-rdBmakKdJ0 .box-item-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rdBmakKdJ0 .box-item {
   padding: 2.5rem;
 }
 .cid-rdBmakKdJ0 .box-item:first-child {
-  background-color: #ffffff;
+  background-color: #e96188;
 }
 .cid-rdBmakKdJ0 .box-item:nth-child(2) {
-  background-color: #efefef;
+  background-color: #5fbbed;
 }
 .cid-rdBmakKdJ0 .box-item:last-child {
-  background-color: #ffffff;
+  background-color: #ffd617;
 }
 .cid-rdBmakKdJ0 .box-list {
   padding-left: 0;
@@ -3028,6 +3028,14 @@ body {
     text-align: center !important;
   }
 }
+.cid-rdBmakKdJ0 .icon-block-top,
+.cid-rdBmakKdJ0 .box-item-title B {
+  color: #ffffff;
+}
+.cid-rdBmakKdJ0 .icon-block-top,
+.cid-rdBmakKdJ0 .box-item-title {
+  color: #ffffff;
+}
 .cid-rdBl842jVC {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -3066,7 +3074,7 @@ body {
   color: #767676;
 }
 .cid-rdBl842jVC .mbr-title {
-  color: #e96188;
+  color: #5b686b;
 }
 .cid-rdBvOkxaJ0 {
   padding-top: 90px;
@@ -3081,9 +3089,9 @@ body {
   color: #66458e;
 }
 .cid-rdBvOkxaJ0 .card .card-img span {
-  color: #66458e;
+  color: #767676;
   font-size: 60px;
-  background: linear-gradient(45deg, #66458e, #66458e);
+  background: linear-gradient(45deg, #767676, #232323);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -3096,6 +3104,10 @@ body {
 .cid-rdBvOkxaJ0 _:-ms-lang(x),
 .cid-rdBvOkxaJ0 .card .card-img span {
   background: none;
+}
+.cid-rdBvOkxaJ0 .card-title,
+.cid-rdBvOkxaJ0 .card-img B {
+  color: #232323;
 }
 .cid-rdBwAXiFVM {
   padding-top: 0px;
@@ -3110,9 +3122,9 @@ body {
   color: #66458e;
 }
 .cid-rdBwAXiFVM .card .card-img span {
-  color: #66458e;
+  color: #767676;
   font-size: 60px;
-  background: linear-gradient(45deg, #66458e, #66458e);
+  background: linear-gradient(45deg, #767676, #66458e);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -3125,6 +3137,10 @@ body {
 .cid-rdBwAXiFVM _:-ms-lang(x),
 .cid-rdBwAXiFVM .card .card-img span {
   background: none;
+}
+.cid-rdBwAXiFVM .card-title,
+.cid-rdBwAXiFVM .card-img {
+  color: #232323;
 }
 .cid-rdBxOj5gc9 {
   padding-top: 90px;
