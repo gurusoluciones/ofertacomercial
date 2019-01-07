@@ -3054,8 +3054,12 @@ body {
 }
 .cid-rdBl842jVC {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
+}
+.cid-rdBl842jVC .main {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .cid-rdBl842jVC .row-element,
 .cid-rdBl842jVC .image-element {
@@ -3090,7 +3094,7 @@ body {
   color: #767676;
 }
 .cid-rdBl842jVC .mbr-title {
-  color: #5b686b;
+  color: #232323;
 }
 .cid-rdBvOkxaJ0 {
   padding-top: 90px;
