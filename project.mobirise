@@ -4021,12 +4021,12 @@
                 "onSale": true,
                 "oldPrice": true,
                 "itemTitle": "Web DESCUBRE",
-                "itemDescription": "Diseño minimalista, práctico y consiso<div>\n</div><div><b>Diseño One Page\n</b></div><div>3 Buzones de correo\n</div><div>Dominio propio\n</div><div>Certificado SSL\n</div><div>Gestor de contenidos administrable\n</div><div>Diseño responsive\n</div><div>Incluye ChatBot\n</div><div>Enlace a WattsApp\n</div><div>SEO Básico\n</div><div>\n</div><div>El diseño One Page es un diseño moderno y práctico que ayuda a la navegabilidad de los usuarios, en este diseño la información se muestra de manera ágil y amena.\n</div><div>\n</div><div>Código de Producto: WEBDESCUBRE</div>",
+                "itemDescription": "Diseño minimalista, práctico y consiso<div>\n</div><div><b>Diseño One Page\n</b></div><div>3 Buzones de correo\n</div><div>Dominio propio\n</div><div><br></div><div>\n</div><div>El diseño One Page es un diseño moderno y práctico que ayuda a la navegabilidad de los usuarios, en este diseño la información se muestra de manera ágil y amena.\n</div><div>\n</div><div>Código de Producto: WEBDESCUBRE</div>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "S/. 50.00 mensuales",
                 "oldPriceValue": "$60",
                 "sale": "OFERTA",
-                "button": "<a data-app-btn=\"true\" href=\"https://gurutravel.websguru.pe/\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">Ver demo</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://gurutravel.websguru.pe/\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable\">Ver demo</a>",
                 "image": "@PROJECT_PATH@/assets/images/mini_gurutravel-599x480.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mini-gurutravel-599x480-599x480.jpg",
                 "customStyle5": "display-5",
@@ -4044,12 +4044,12 @@
                 "onSale": true,
                 "oldPrice": true,
                 "itemTitle": "Web DESCUBRE",
-                "itemDescription": "Página Web de 3 pestañas<br><br><ul><li>Diseño 3 Pestañas escalable a 5 pestañas</li> <li>5 Buzones de correo</li> <li>Dominio propio</li><li>Certificado SSL</li><li>Gestor de contenidos administrable</li><li>Diseño responsive</li><li>Incluye ChatBot</li><li>Enlace a WattsApp</li><li>SEO Básico</li><li><br></li></ul>El diseño One Page es un diseño moderno y práctico que ayuda a la navegabilidad de los usuarios, en este diseño la información se muestra de manera ágil y amena.<br><br>Código de Producto: <b>WEBDESCUBRE</b>",
+                "itemDescription": "Página Web de 3 pestañas<br><br><ul><li>Diseño 3 Pestañas escalable a 5 pestañas</li> <li>5 Buzones de correo</li> <li>Dominio propio</li><li><br></li></ul>El diseño One Page es un diseño moderno y práctico que ayuda a la navegabilidad de los usuarios, en este diseño la información se muestra de manera ágil y amena.<br><br>Código de Producto: <b>WEBDESCUBRE</b>",
                 "itemPriceTitle": "From: ",
-                "itemPrice": "S/. 50.00 Mensuales",
+                "itemPrice": "S/. 50.00 mensuales",
                 "oldPriceValue": "$60",
                 "sale": "OFERTA",
-                "button": "<a data-app-btn=\"true\" href=\"https://gurudigital.websguru.pe/\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable note-air-editor\">¡Ver Demo!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://gurudigital.websguru.pe/\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable\">¡Ver Demo!</a>",
                 "image": "@PROJECT_PATH@/assets/images/mini_gurudigital-598x478.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mini-gurudigital-598x478-598x478.jpg",
                 "customStyle5": "display-5",
@@ -4057,7 +4057,7 @@
                 "customStyleSale": "display-4",
                 "customStyleTags": "display-4",
                 "caption": "Escriba subtítulo aquí",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -4069,10 +4069,10 @@
                 "itemTitle": "Web DESCUBRE",
                 "itemDescription": "Zapatos casuales (contáctenos para determinar la talla)<br><br><ul><li>Tejido ligero texturizado</li> <li>Cuello en v redondeado</li> <li>Adornos pom pom</li> <li>Ajuste regular - fiel a su tamaño</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br>Product code: <b>385DDF5p</b>",
                 "itemPriceTitle": "From: ",
-                "itemPrice": "S/. 50.00",
-                "oldPriceValue": "S/. 60.00",
+                "itemPrice": "S/. 50.00 mensuales",
+                "oldPriceValue": "S/. 60",
                 "sale": "OFERTA",
-                "button": "<a data-app-btn=\"true\" href=\"https://guruinmobiliaria.websguru.pe\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-air-editor note-editable\">¡Comprar ahora!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://guruinmobiliaria.websguru.pe\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7 note-editable\">¡Comprar ahora!</a>",
                 "image": "@PROJECT_PATH@/assets/images/mini_guruinmobiliaria-600x480.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mini-guruinmobiliaria-600x480-600x480.jpg",
                 "customStyle5": "display-5",
@@ -4080,13 +4080,13 @@
                 "customStyleSale": "display-4",
                 "customStyleTags": "display-4",
                 "caption": "Escriba subtítulo aquí",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
               {
                 "tags": "Avanza",
-                "bestSeller": false,
+                "bestSeller": true,
                 "onSale": false,
                 "oldPrice": false,
                 "itemTitle": "Wen AVANZA",
@@ -4132,7 +4132,7 @@
               },
               {
                 "tags": "Lidera",
-                "bestSeller": true,
+                "bestSeller": false,
                 "onSale": false,
                 "oldPrice": false,
                 "itemTitle": "Web LIDERA",
@@ -4570,6 +4570,9 @@
               ".content-column": {
                 "margin-bottom": "2rem"
               }
+            },
+            ".mbr-title": {
+              "color": "#e96188"
             }
           },
           "_name": "features7",
