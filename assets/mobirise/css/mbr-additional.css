@@ -1698,6 +1698,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffd617;
+  background: none;
 }
 .cid-rdACRpehW8 .navbar.opened {
   transition: all .3s;
@@ -2713,6 +2714,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffd617;
+  background: none;
 }
 .cid-rdBl3usl93 .navbar.opened {
   transition: all .3s;
@@ -2981,7 +2983,7 @@ body {
   background-image: url("../../../assets/images/mbr-1920x1330.jpg");
 }
 .cid-rdBmakKdJ0 .text-content {
-  padding-bottom: 60px;
+  padding-bottom: 90px;
 }
 .cid-rdBmakKdJ0 .content-container .btn-bgr {
   z-index: 0;
@@ -3047,6 +3049,9 @@ body {
 .cid-rdBmakKdJ0 .box-item-title {
   color: #ffffff;
 }
+.cid-rdBmakKdJ0 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rdBl842jVC {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -3100,9 +3105,9 @@ body {
   color: #66458e;
 }
 .cid-rdBvOkxaJ0 .card .card-img span {
-  color: #767676;
+  color: #5b686b;
   font-size: 60px;
-  background: linear-gradient(45deg, #767676, #232323);
+  background: linear-gradient(45deg, #5b686b, #e96188);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -3138,7 +3143,7 @@ body {
 .cid-rdBwAXiFVM .card .card-img span {
   color: #767676;
   font-size: 60px;
-  background: linear-gradient(45deg, #767676, #66458e);
+  background: linear-gradient(45deg, #767676, #e96188);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -4126,7 +4131,7 @@ body {
   padding-bottom: 1rem;
 }
 .cid-rdBl86i3LO .num {
-  color: #fac769;
+  color: #ffc432;
 }
 @media (max-width: 767px) {
   .cid-rdBl86i3LO .num,
@@ -4418,6 +4423,7 @@ body {
   min-height: 77px;
   transition: all .3s;
   background: #ffd617;
+  background: none;
 }
 .cid-rdBl8ezCsQ .navbar.opened {
   transition: all .3s;
